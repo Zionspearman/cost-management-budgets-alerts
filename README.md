@@ -1,7 +1,7 @@
 # Azure Cost Management Lab: Budgets + Alerts (Subscription Scope)
 
 This repository supports my lab walkthrough video on using **Azure Cost Management** to create a **subscription budget**, configure **alert thresholds**, and review spend using **Cost analysis**.  
-📺 **Watch the lab video on YouTube:** 
+📺 **Watch the lab video on YouTube:** https://youtu.be/mCCU0lPZWwo
 
 ---
 
